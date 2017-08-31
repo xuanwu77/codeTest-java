@@ -14,7 +14,12 @@
 如样例所示: 
 当队列排列顺序是: 25-10-40-5-25, 身高差绝对值的总和为15+30+35+20=100。
 这是最大的疯狂值了*/
-
+import java.util.*;
 public class 按身高排列使得身高差总和最大 {
-
+	public static void main(String[] args) {
+		
+	}
+	
+		
+	
 }
